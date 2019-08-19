@@ -1,3 +1,8 @@
+Projeto exemplo usando react.....!!!
+Esse projeto faz pesquisando no api do git hub e mostra os projetos dos usuarios pesquisados.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
