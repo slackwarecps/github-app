@@ -1,8 +1,10 @@
 'use strict'
 
+//imports
 import React from 'react'
 import PropTypes from 'prop-types'
 
+//desenho dos componentes
 const Search = ({ isDisabled, handleSearch }) => (
 
     <div>
@@ -20,9 +22,10 @@ const Search = ({ isDisabled, handleSearch }) => (
     </div>
 )
 
+//declaracao das propriedades
 Search.propTypes = {
     handleSearch: PropTypes.func.isRequired,
     isDisabled: PropTypes.bool.isRequired
 }
-
+//export
 export default Search
